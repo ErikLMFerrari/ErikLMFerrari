@@ -1,4 +1,4 @@
-### Olá, tudo bem? Pegue uma pipoca, acomode-se e fique a vontade 👋
+### Olá, tudo bem? Pegue uma pipoca, um suco e fique a vontade 👋
 
 Here are some ideas to get you started:
 
@@ -22,8 +22,5 @@ Here are some ideas to get you started:
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
   
   <div> 
-inkedin.com/in/Erik-Ferrari-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
