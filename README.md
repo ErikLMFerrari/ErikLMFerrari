@@ -4,6 +4,6 @@
 - 👨‍💻 Estou atualmente estudando back-end & Pentest.
 - 🎓 Hacker em treinamento.
 
-[![https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](luis.erikferrari@gmail.com)]
+[![gmail][https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](luis.erikferrari@gmail.com)]
 
   
