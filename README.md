@@ -1,8 +1,6 @@
 ### Olá, tudo bem? Pegue uma pipoca, um suco e fique a vontade 👋
 
-- ✈️ Estou aberto a ofertas.
-- 👨‍💻 Atualmente estudo Python & Pentest.
-- 🎓 Hacker em treinamento.
+- 👨‍💻 Atualmente estudo Python/RPA.
 
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eriklmf/)
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-ferrari-3a1700238/)
